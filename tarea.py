@@ -32,3 +32,8 @@ if x==H:
 else:
     if x==He:
         print (He1)
+y=raw_input("ya valiste??")
+if y==si:
+    print("no  tuve tiepo chavos")
+else:
+    print ("la enta no pude hacerlo")
