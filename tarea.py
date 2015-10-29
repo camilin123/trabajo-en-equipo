@@ -1,3 +1,4 @@
+
 H1="Hydrogen	1.00794(4)	FFFFFF	1s1	2.20	37		120	1312	-73	-1, 1	gas	diatomic	14	20	8.99E-05	nonmetal	1766"
 He1="Helium	4.002602(2)	D9FFFF	1s2		32		140	2372	0		gas	atomic		4	0	noble gas	1868"
 Li="Lithium	6.941(2)	CC80FF	[He] 2s1	0.98	134	76 (+1)	182	520	-60	1	solid	metallic	454	1615	0.54	alkali metal	1817"
